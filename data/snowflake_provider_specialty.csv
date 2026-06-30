@@ -1,0 +1,489 @@
+provider_id,specialty_code,specialty_name
+P00001,DERM,Dermatology
+P00002,DERM,Dermatology
+P00003,CARD,Cardiology
+P00004,CARD,Cardiology
+P00005,NEUR,Neurology
+P00006,ORTH,Orthopedics
+P00007,NEUR,Neurology
+P00008,DERM,Dermatology
+P00009,FAMP,Family Practice
+P00010,FAMP,Family Practice
+P00011,NEUR,Neurology
+P00012,DERM,
+P00013,PSY,Psychiatry
+P00014,ONC,Oncology
+P00015,PSY,Psychiatry
+P00016,DERM,Dermatology
+P00017,DERM,Dermatology
+P00018,ORTH,Orthopedics
+P00019,FAMP,Family Practice
+P00020,FAMP,Family Practice
+P00021,DERM,Dermatology
+P00022,DERM,Dermatology
+P00023,ORTH,Orthopedics
+P00024,ORTH,Orthopedics
+P00025,DERM,Dermatology
+P00026,PED,Pediatrics
+P00027,NEUR,Neurology
+P00028,FAMP,Family Practice
+P00029,PED,Pediatrics
+P00030,CARD,Cardiology
+P00031,DERM,Dermatology
+P00033,CARD,Cardiology
+P00034,FAMP,Family Practice
+P00035,FAMP,Family Practice
+P00036,ORTH,Orthopedics
+P00037,CARD,Cardiology
+P00038,PSY,Psychiatry
+P00039,FAMP,Family Practice
+P00040,DERM,Dermatology
+P00041,ORTH,Orthopedics
+P00042,ORTH,Orthopedics
+P00043,DERM,Dermatology
+P00044,PED,Pediatrics
+P00045,CARD,Cardiology
+P00046,ORTH,Orthopedics
+P00047,NEUR,Neurology
+P00049,ORTH,Orthopedics
+P00050,FAMP,
+P00051,FAMP,Family Practice
+P00052,NEUR,Neurology
+P00053,FAMP,Family Practice
+P00054,ONC,Oncology
+P00055,ONC,Oncology
+P00056,NEUR,Neurology
+P00057,NEUR,Neurology
+P00058,NEUR,Neurology
+P00059,CARD,Cardiology
+P00060,ONC,Oncology
+P00061,ORTH,Orthopedics
+P00062,NEUR,Neurology
+P00063,ORTH,Orthopedics
+P00064,FAMP,Family Practice
+P00065,ORTH,
+P00066,NEUR,
+P00067,FAMP,Family Practice
+P00069,CARD,Cardiology
+P00070,PSY,Psychiatry
+P00071,ONC,Oncology
+P00072,ONC,Oncology
+P00073,PSY,Psychiatry
+P00074,PSY,Psychiatry
+P00075,PSY,Psychiatry
+P00076,PED,Pediatrics
+P00077,PED,Pediatrics
+P00078,ONC,Oncology
+P00079,ONC,Oncology
+P00080,PSY,Psychiatry
+P00081,PED,Pediatrics
+P00082,NEUR,Neurology
+P00083,FAMP,Family Practice
+P00084,DERM,Dermatology
+P00085,ONC,Oncology
+P00086,ORTH,Orthopedics
+P00087,NEUR,Neurology
+P00088,CARD,Cardiology
+P00089,PSY,Psychiatry
+P00090,FAMP,Family Practice
+P00092,ONC,Oncology
+P00093,DERM,Dermatology
+P00094,DERM,Dermatology
+P00095,DERM,Dermatology
+P00096,ORTH,Orthopedics
+P00097,NEUR,Neurology
+P00098,ONC,Oncology
+P00099,PED,Pediatrics
+P00100,CARD,Cardiology
+P00101,PED,Pediatrics
+P00102,ORTH,Orthopedics
+P00103,PSY,Psychiatry
+P00104,NEUR,Neurology
+P00105,PED,Pediatrics
+P00106,ORTH,Orthopedics
+P00107,PED,Pediatrics
+P00108,ORTH,Orthopedics
+P00109,DERM,Dermatology
+P00110,FAMP,Family Practice
+P00111,PSY,Psychiatry
+P00112,DERM,Dermatology
+P00113,ONC,Oncology
+P00114,CARD,Cardiology
+P00115,FAMP,Family Practice
+P00116,PSY,Psychiatry
+P00117,DERM,Dermatology
+P00118,ONC,Oncology
+P00119,FAMP,Family Practice
+P00120,PSY,Psychiatry
+P00121,PSY,Psychiatry
+P00122,CARD,Cardiology
+P00123,CARD,Cardiology
+P00124,PSY,Psychiatry
+P00125,FAMP,Family Practice
+P00126,CARD,Cardiology
+P00127,CARD,Cardiology
+P00128,PSY,Psychiatry
+P00129,ORTH,
+P00130,FAMP,Family Practice
+P00131,DERM,Dermatology
+P00132,ORTH,Orthopedics
+P00133,ONC,Oncology
+P00134,NEUR,Neurology
+P00135,FAMP,Family Practice
+P00136,PSY,Psychiatry
+P00137,CARD,Cardiology
+P00138,PSY,
+P00139,DERM,Dermatology
+P00140,DERM,Dermatology
+P00141,NEUR,Neurology
+P00142,CARD,Cardiology
+P00143,PED,Pediatrics
+P00144,PSY,Psychiatry
+P00145,ORTH,Orthopedics
+P00146,FAMP,Family Practice
+P00147,PSY,Psychiatry
+P00148,ORTH,Orthopedics
+P00149,DERM,Dermatology
+P00150,PSY,Psychiatry
+P00151,ONC,Oncology
+P00152,ORTH,Orthopedics
+P00153,PED,Pediatrics
+P00154,FAMP,Family Practice
+P00155,NEUR,Neurology
+P00156,PED,Pediatrics
+P00157,FAMP,Family Practice
+P00158,PSY,Psychiatry
+P00159,NEUR,Neurology
+P00160,NEUR,Neurology
+P00161,DERM,Dermatology
+P00162,PED,Pediatrics
+P00163,DERM,Dermatology
+P00164,DERM,Dermatology
+P00165,FAMP,Family Practice
+P00166,ORTH,Orthopedics
+P00167,NEUR,Neurology
+P00168,CARD,Cardiology
+P00170,FAMP,Family Practice
+P00171,PED,Pediatrics
+P00172,ORTH,Orthopedics
+P00173,FAMP,Family Practice
+P00174,ORTH,Orthopedics
+P00175,PSY,Psychiatry
+P00176,ORTH,Orthopedics
+P00177,ONC,Oncology
+P00178,DERM,
+P00179,ONC,Oncology
+P00180,DERM,Dermatology
+P00181,ONC,Oncology
+P00182,ONC,Oncology
+P00183,DERM,Dermatology
+P00184,FAMP,Family Practice
+P00185,ONC,Oncology
+P00186,FAMP,Family Practice
+P00187,DERM,Dermatology
+P00188,ORTH,Orthopedics
+P00189,NEUR,Neurology
+P00190,FAMP,Family Practice
+P00191,ONC,Oncology
+P00192,DERM,Dermatology
+P00193,ORTH,Orthopedics
+P00194,ORTH,Orthopedics
+P00195,PSY,Psychiatry
+P00196,CARD,Cardiology
+P00197,ORTH,Orthopedics
+P00198,FAMP,Family Practice
+P00199,DERM,Dermatology
+P00200,NEUR,Neurology
+P00201,DERM,Dermatology
+P00202,NEUR,Neurology
+P00203,DERM,Dermatology
+P00204,DERM,Dermatology
+P00205,NEUR,Neurology
+P00206,FAMP,Family Practice
+P00207,PSY,Psychiatry
+P00208,NEUR,Neurology
+P00209,ORTH,Orthopedics
+P00210,PSY,Psychiatry
+P00211,ONC,Oncology
+P00212,NEUR,Neurology
+P00213,DERM,Dermatology
+P00214,PSY,Psychiatry
+P00215,ONC,Oncology
+P00216,DERM,Dermatology
+P00217,NEUR,
+P00218,FAMP,Family Practice
+P00219,FAMP,Family Practice
+P00220,CARD,Cardiology
+P00221,PED,Pediatrics
+P00222,CARD,Cardiology
+P00223,FAMP,Family Practice
+P00224,NEUR,Neurology
+P00225,PED,Pediatrics
+P00226,NEUR,Neurology
+P00227,ONC,Oncology
+P00228,NEUR,Neurology
+P00229,ORTH,Orthopedics
+P00230,PSY,Psychiatry
+P00231,PED,Pediatrics
+P00232,NEUR,Neurology
+P00233,FAMP,Family Practice
+P00234,CARD,Cardiology
+P00235,DERM,Dermatology
+P00236,PSY,Psychiatry
+P00237,FAMP,Family Practice
+P00238,FAMP,Family Practice
+P00239,CARD,Cardiology
+P00240,ORTH,Orthopedics
+P00241,NEUR,Neurology
+P00242,PSY,Psychiatry
+P00243,CARD,Cardiology
+P00244,NEUR,Neurology
+P00245,CARD,Cardiology
+P00246,NEUR,Neurology
+P00247,ONC,Oncology
+P00248,DERM,Dermatology
+P00249,ORTH,Orthopedics
+P00251,CARD,Cardiology
+P00252,DERM,Dermatology
+P00253,CARD,Cardiology
+P00254,NEUR,Neurology
+P00255,NEUR,Neurology
+P00256,ONC,Oncology
+P00257,FAMP,Family Practice
+P00258,PSY,
+P00259,PED,Pediatrics
+P00260,DERM,Dermatology
+P00261,ORTH,Orthopedics
+P00262,DERM,Dermatology
+P00263,NEUR,Neurology
+P00264,ORTH,Orthopedics
+P00265,FAMP,Family Practice
+P00266,FAMP,Family Practice
+P00267,CARD,Cardiology
+P00268,PED,Pediatrics
+P00269,ORTH,Orthopedics
+P00270,FAMP,Family Practice
+P00271,CARD,Cardiology
+P00272,CARD,Cardiology
+P00273,PED,Pediatrics
+P00274,FAMP,Family Practice
+P00275,NEUR,Neurology
+P00276,NEUR,Neurology
+P00277,DERM,Dermatology
+P00278,NEUR,Neurology
+P00279,PSY,Psychiatry
+P00280,PED,Pediatrics
+P00281,PSY,Psychiatry
+P00282,ORTH,Orthopedics
+P00283,NEUR,Neurology
+P00284,DERM,Dermatology
+P00285,NEUR,Neurology
+P00286,FAMP,Family Practice
+P00287,NEUR,Neurology
+P00288,NEUR,Neurology
+P00289,CARD,Cardiology
+P00290,PSY,Psychiatry
+P00291,FAMP,Family Practice
+P00292,CARD,Cardiology
+P00293,ONC,Oncology
+P00294,CARD,Cardiology
+P00295,ONC,Oncology
+P00296,ORTH,Orthopedics
+P00297,PED,Pediatrics
+P00298,PSY,Psychiatry
+P00299,ONC,Oncology
+P00300,NEUR,Neurology
+P00301,ORTH,Orthopedics
+P00302,PED,Pediatrics
+P00303,ONC,Oncology
+P00304,FAMP,Family Practice
+P00306,CARD,Cardiology
+P00307,PSY,Psychiatry
+P00308,NEUR,Neurology
+P00309,ORTH,Orthopedics
+P00310,FAMP,Family Practice
+P00312,DERM,Dermatology
+P00313,NEUR,Neurology
+P00314,NEUR,Neurology
+P00315,CARD,Cardiology
+P00316,DERM,Dermatology
+P00317,PSY,Psychiatry
+P00318,PED,Pediatrics
+P00319,DERM,Dermatology
+P00320,FAMP,Family Practice
+P00321,DERM,Dermatology
+P00322,PSY,Psychiatry
+P00324,NEUR,Neurology
+P00325,CARD,Cardiology
+P00326,NEUR,Neurology
+P00327,NEUR,Neurology
+P00328,CARD,Cardiology
+P00329,ONC,Oncology
+P00330,DERM,Dermatology
+P00331,PED,Pediatrics
+P00332,PED,Pediatrics
+P00333,FAMP,Family Practice
+P00334,NEUR,Neurology
+P00335,ORTH,Orthopedics
+P00336,CARD,Cardiology
+P00337,ONC,Oncology
+P00338,PED,Pediatrics
+P00339,ONC,Oncology
+P00340,NEUR,Neurology
+P00342,PSY,Psychiatry
+P00343,DERM,Dermatology
+P00344,ORTH,Orthopedics
+P00345,PSY,Psychiatry
+P00346,CARD,Cardiology
+P00347,ORTH,Orthopedics
+P00348,PSY,Psychiatry
+P00349,PSY,Psychiatry
+P00350,FAMP,
+P00351,CARD,Cardiology
+P00352,FAMP,Family Practice
+P00353,PSY,Psychiatry
+P00354,ORTH,Orthopedics
+P00355,DERM,Dermatology
+P00356,NEUR,Neurology
+P00357,PED,Pediatrics
+P00358,CARD,Cardiology
+P00359,CARD,Cardiology
+P00360,DERM,Dermatology
+P00361,ORTH,Orthopedics
+P00362,FAMP,Family Practice
+P00363,DERM,Dermatology
+P00364,NEUR,Neurology
+P00365,CARD,Cardiology
+P00366,NEUR,Neurology
+P00367,PED,Pediatrics
+P00368,DERM,Dermatology
+P00369,FAMP,Family Practice
+P00370,DERM,Dermatology
+P00371,DERM,Dermatology
+P00372,DERM,Dermatology
+P00373,ONC,Oncology
+P00374,FAMP,Family Practice
+P00375,PSY,
+P00376,PSY,Psychiatry
+P00377,PED,Pediatrics
+P00378,NEUR,Neurology
+P00379,ORTH,Orthopedics
+P00380,NEUR,Neurology
+P00381,ONC,Oncology
+P00382,FAMP,Family Practice
+P00383,PSY,Psychiatry
+P00384,PSY,Psychiatry
+P00385,ONC,Oncology
+P00386,ONC,Oncology
+P00387,DERM,Dermatology
+P00388,ONC,Oncology
+P00389,PED,
+P00390,NEUR,Neurology
+P00391,DERM,Dermatology
+P00392,PSY,Psychiatry
+P00393,NEUR,Neurology
+P00394,NEUR,Neurology
+P00395,FAMP,Family Practice
+P00396,FAMP,Family Practice
+P00397,PSY,Psychiatry
+P00398,ORTH,Orthopedics
+P00399,NEUR,Neurology
+P00400,NEUR,Neurology
+P00401,PSY,Psychiatry
+P00402,NEUR,Neurology
+P00403,ONC,Oncology
+P00404,PSY,Psychiatry
+P00405,FAMP,Family Practice
+P00406,CARD,Cardiology
+P00407,ONC,Oncology
+P00408,FAMP,Family Practice
+P00409,CARD,Cardiology
+P00410,DERM,
+P00411,CARD,Cardiology
+P00412,ORTH,
+P00413,PSY,Psychiatry
+P00414,ONC,Oncology
+P00415,CARD,Cardiology
+P00416,ORTH,Orthopedics
+P00417,FAMP,Family Practice
+P00418,PED,Pediatrics
+P00419,PSY,Psychiatry
+P00420,DERM,Dermatology
+P00421,PSY,
+P00422,PSY,Psychiatry
+P00423,PED,Pediatrics
+P00424,NEUR,Neurology
+P00425,CARD,Cardiology
+P00426,PSY,Psychiatry
+P00427,ORTH,Orthopedics
+P00428,NEUR,Neurology
+P00429,PED,Pediatrics
+P00430,PSY,Psychiatry
+P00431,CARD,Cardiology
+P00432,DERM,Dermatology
+P00433,NEUR,Neurology
+P00434,FAMP,Family Practice
+P00435,NEUR,Neurology
+P00436,PED,Pediatrics
+P00437,NEUR,Neurology
+P00438,PED,Pediatrics
+P00439,ORTH,Orthopedics
+P00440,PED,Pediatrics
+P00441,CARD,Cardiology
+P00442,NEUR,Neurology
+P00443,CARD,Cardiology
+P00444,ONC,Oncology
+P00445,FAMP,Family Practice
+P00446,FAMP,Family Practice
+P00447,ORTH,
+P00448,DERM,Dermatology
+P00449,DERM,Dermatology
+P00450,NEUR,Neurology
+P00451,DERM,Dermatology
+P00452,DERM,Dermatology
+P00453,NEUR,Neurology
+P00454,PED,Pediatrics
+P00455,NEUR,Neurology
+P00456,PED,Pediatrics
+P00457,NEUR,Neurology
+P00458,ONC,Oncology
+P00459,DERM,Dermatology
+P00460,PED,Pediatrics
+P00461,FAMP,Family Practice
+P00462,NEUR,Neurology
+P00463,DERM,Dermatology
+P00464,FAMP,Family Practice
+P00465,NEUR,Neurology
+P00466,DERM,Dermatology
+P00467,PED,Pediatrics
+P00468,NEUR,Neurology
+P00469,DERM,Dermatology
+P00470,DERM,Dermatology
+P00471,DERM,Dermatology
+P00472,PED,Pediatrics
+P00473,ONC,Oncology
+P00474,CARD,Cardiology
+P00475,DERM,Dermatology
+P00476,NEUR,Neurology
+P00477,CARD,Cardiology
+P00478,DERM,Dermatology
+P00479,ONC,Oncology
+P00481,PED,Pediatrics
+P00482,CARD,
+P00483,CARD,Cardiology
+P00484,NEUR,Neurology
+P00485,NEUR,Neurology
+P00487,ORTH,Orthopedics
+P00488,NEUR,Neurology
+P00489,CARD,Cardiology
+P00490,PSY,Psychiatry
+P00491,PED,Pediatrics
+P00492,PED,Pediatrics
+P00493,CARD,Cardiology
+P00494,DERM,Dermatology
+P00495,NEUR,Neurology
+P00496,NEUR,Neurology
+P00497,ONC,Oncology
+P00498,ONC,Oncology
+P00499,DERM,Dermatology
+P00500,NEUR,
